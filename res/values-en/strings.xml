@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">The Tia Foundation Survey</string>
+
+    <string name="subtitle">Thank you for participating in this survey. All information is private and anonymous.</string>
+    <string name="title_family_health_history">Family Health History:</string>
+    <string name="title_life_quality">Quality of Life:</string>
+
+    <string name="action_edit_text">Answer here</string>
+    <string name="action_save_and_export">Save and Export</string>
+
+    <string name="result_not_access_given">Sorry, but the app doesn\'t have access to export the spreadsheet.</string>
+    <string name="result_survey_saved">Survey saved.</string>
+    <string name="result_not_fields_populated">Please, fill in all the entries.</string>
+    <string name="result_exported_spreadsheet">Exported spreadsheet.</string>
+    <string name="result_exported_spreadsheet_error">Sorry, but there was an error exporting the spreadsheet.</string>
+
+    <string name="question_colony_name">Name of neighborhood or community in which you live:</string>
+    <string name="question_interviewed_name">Name of the person being interviewed:</string>
+    <string name="question_sex">Sex:</string>
+    <string name="question_age">Age:</string>
+    <string name="question_1">1. What is your job?</string>
+    <string name="question_2">2. How long does it take you to get to work?</string>
+    <string name="question_3">3. Do you have health insurance? If so, please specify which one:</string>
+    <string name="question_4">4. How many times have you been to your doctor this year?</string>
+    <string name="question_5">5. How many times have you been to your doctor last year?</string>
+    <string name="question_6">6. How long does it take to travel to a medical consultation (non-emergency)?</string>
+    <string name="question_7">7. What kind of medical care is available in your community?</string>
+    <string name="question_7b">Is it available every day?</string>
+    <string name="question_8">8. Is everyone in your house up to date on their vaccinations?</string>
+    <string name="question_9">9. How many people live in your house?</string>
+    <string name="question_10">10. How many pregnancies have you had?</string>
+    <string name="question_11">11. How many were born alive?</string>
+    <string name="question_12">12. Do you use a method of pregnancy prevention?</string>
+    <string name="question_13">13. Has a newborn died in the last two years from lack of care in the last 2 years?</string>
+    <string name="question_14">14. Where did you deliver your last baby?</string>
+    <string name="question_15">15. How long does it take to reach the hospital in an emergency?</string>
+    <string name="question_16">16. Have you been diagnosed with a chronic illness? Like:</string>
+    <string name="question_16b">How long has it been since your diagnosis?</string>
+    <string name="question_17">17. Do you take your medication every day?</string>
+    <string name="question_18">18. If you do not take your medication, what is the reason?</string>
+    <string name="question_19">19. When you are sick, do you go to the doctor?</string>
+    <string name="question_20">20. What kind of medicine do you prefer?</string>
+    <string name="question_21">21. Does anyone in the family have a mental illness?</string>
+    <string name="question_22">22. Is there anyone in you know who is a victim of domestic violence? This survey is completely anonymous. We assign numbers and community names to our surveys, but not names of people.</string>
+    <string name="question_22b">¿Who? (mom, dad, sister, brother, son, daughter, nephew, piece, grandpa, grandma)</string>
+    <string name="question_23">23. What is the main religion in your home?</string>
+    <string name="question_24">24. How often does your family wash their hands in a day?</string>
+    <string name="question_25">25. How often does your family brush their teeth?</string>
+    <string name="question_26">26. How many times a week does your family bathe?</string>
+    <string name="question_27">27. Have you received training, talks or courses on diseases, prevention and management of these?</string>
+    <string name="question_28">28. What are the biggest problems in your life?</string>
+    <string name="question_29">29. What organizations or individuals do you think could help solve these problems in your community?</string>
+    <string name="question_30">30. How many people in this household currently work in the United States? (Everything is anonymous and we will not report to anyone.)</string>
+    <string name="question_31">31. What type of work did they do in the United States?</string>
+    <string name="question_32">32. ¿How many people in this house plan to travel to the United States to look for work next year?</string>
+    <string name="question_33">33. Do you rent or own your home and/or land?</string>
+    <string name="question_34">34. How many times does your family eat meat in a week?</string>
+    <string name="question_35">35. How many times does your family eat eggs in a week?</string>
+    <string name="question_36">36. How many times does your family consume dairy (cheese/milk/cream) in a week?</string>
+    <string name="question_37">37. How many times does your family consume fruit in a week?</string>
+    <string name="question_38">38. How many times does your family eat corn, tortillas, beans in a week?</string>
+    <string name="question_39">39. Do the children in this family currently go to school?</string>
+    <string name="question_40">40. What is the highest level of study that you can achieve at the local schools?</string>
+    <string name="question_41">41. How far away is the nearest middle school?</string>
+    <string name="question_42">42. How far away is the nearest high school?</string>
+    <string name="question_43">43  What material is the floor of your house made of?</string>
+    <string name="question_44">44. What material is your house made of?</string>
+    <string name="question_45">45. Do you have electricity in your home?</string>
+    <string name="question_46">46. Wha kind of bathroom do you have?</string>
+    <string name="question_47">47. Where do you get your drinking water?</string>
+    <string name="question_48">48. For the interviewer: do you have a notes?</string>
+
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <string name="ensurance1">None</string>
+    <string name="ensurance2">Social Security (IMSS)</string>
+    <string name="ensurance3">Public Health Insurance (INSABI)</string>
+    <string name="ensurance4">Civil Service Healthcare (ISSSTE)</string>
+    <string name="ensurance5">Mexican Petrolium (PEMEX)</string>
+    <string name="ensurance6">Private Health Insurance (SEDENA PRIVADO)</string>
+
+    <string name="anticonceptivos1">Pills</string>
+    <string name="anticonceptivos2">Injection</string>
+    <string name="anticonceptivos3">Condom</string>
+    <string name="anticonceptivos4">Implant</string>
+    <string name="anticonceptivos5">IUD</string>
+    <string name="anticonceptivos6">Patches</string>
+    <string name="anticonceptivos7">N/A</string>
+
+    <string name="medicament1">I do not have medicine</string>
+    <string name="medicament2">I do not want to take it</string>
+    <string name="medicament3">I forget to take it</string>
+    <string name="medicament4">No medication is available</string>
+    <string name="medicament5">I cannot afford it</string>
+
+    <string name="medicament_intake_1">Homeopathy</string>
+    <string name="medicament_intake_2">Medicine from a pharmacy</string>
+    <string name="medicament_intake_3">Natural medicine</string>
+    <string name="medicament_intake_4">Herbs</string>
+    <string name="medicament_intake_5">Medicine man</string>
+
+    <string name="disease_1">Hypertension</string>
+    <string name="disease_2">Cancer</string>
+    <string name="disease_3">Diabetes</string>
+    <string name="disease_4">Embolism</string>
+    <string name="disease_5">Respiratory Disease</string>
+    <string name="disease_6">Cardiovascular</string>
+    <string name="disease_7">Liver Disease</string>
+    <string name="disease_8">Gastrointestinal Disease</string>
+    <string name="disease_9">Neurological Disease</string>
+    <string name="disease_10">None</string>
+
+    <string name="mental_disease_1">None</string>
+    <string name="mental_disease_2">Depression</string>
+    <string name="mental_disease_3">Anxiety</string>
+    <string name="mental_disease_4">Addiction</string>
+    <string name="mental_disease_5">Mental Retardation</string>
+    <string name="mental_disease_6">Auditory Hallucinations</string>
+    <string name="mental_disease_7">Visual Hallucinations</string>
+    <string name="mental_disease_8">Other</string>
+
+    <string-array name="entries_sex">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+    <string-array name="entries_time">
+        <item> day(s)</item>
+        <item> week(s)</item>
+        <item> month(s)</item>
+        <item> year(s)</item>
+    </string-array>
+
+    <string-array name="entries_ensurance">
+        <item>Social Security (IMSS)</item>
+        <item>Public Health Insurance (INSABI)</item>
+        <item>Civil Service Healthcare (ISSSTE)</item>
+        <item>Mexican Petrolium (PEMEX)</item>
+        <item>Private Health Insurance (SEDENA PRIVADO)</item>
+    </string-array>
+
+    <string-array name="entries_medicament_reason">
+        <item>I have not gone to the doctor</item>
+        <item>I did not trust on them</item>
+        <item>I have, but I forget it</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="entries_doctor_time">
+        <item>Always</item>
+        <item>Almost Always</item>
+        <item>Almost Never</item>
+        <item>Never</item>
+        <item>N/A</item>
+    </string-array>
+
+    <string-array name="entries_number_0_5">
+        <item>N/A</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>>5</item>
+    </string-array>
+
+    <string-array name="entries_hospitals">
+        <item>Hospital</item>
+        <item>Community Health Center</item>
+        <item>House</item>
+        <item>Street</item>
+        <item>Car</item>
+        <item>N/A</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="entries_day">
+        <item>&lt;1 time</item>
+        <item>1–2 times</item>
+        <item>3–5 times</item>
+        <item>3–5 times</item>
+        <item>>5 time</item>
+    </string-array>
+
+    <string-array name="entries_capacitación">
+        <item>N/A</item>
+        <item>Doctor</item>
+        <item>Nurse</item>
+        <item>Assistant</item>
+        <item>First aid worker</item>
+    </string-array>
+
+    <string-array name="entries_problems">
+        <item>Health</item>
+        <item>Money</item>
+        <item>Work</item>
+        <item>Family</item>
+        <item>Security</item>
+        <item>House</item>
+        <item>Transport</item>
+        <item>Water</item>
+        <item>Basic Services</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="entries_organizations">
+        <item>Government</item>
+        <item>Social and Family Services</item>
+        <item>Family</item>
+        <item>Community</item>
+        <item>Foreigners</item>
+        <item>Church</item>
+        <item>Narcos</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="entries_people_usa">
+        <item>None</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>>6</item>
+    </string-array>
+
+    <string-array name="entries_rent">
+        <item>Rent</item>
+        <item>Own</item>
+        <item>Borrowed</item>
+    </string-array>
+
+    <string-array name="entries_si_no_no_aplica">
+        <item>Yes</item>
+        <item>No</item>
+        <item>N/A</item>
+    </string-array>
+
+    <string-array name="entries_kids_school">
+        <item>Yes</item>
+        <item>No</item>
+        <item>N/A</item>
+    </string-array>
+
+    <string-array name="entries_school">
+        <item>Kindergarten</item>
+        <item>Elementary School</item>
+        <item>Middle School</item>
+        <item>High School</item>
+        <item>Technical School</item>
+        <item>University</item>
+    </string-array>
+
+    <string-array name="entries_material_flat">
+        <item>Dirt</item>
+        <item>Cement</item>
+        <item>Tile</item>
+        <item>Wood</item>
+    </string-array>
+
+    <string-array name="entries_material_home">
+        <item>Brick</item>
+        <item>Wood</item>
+        <item>Cement</item>
+        <item>Cardboard</item>
+        <item>Plastic</item>
+        <item>Tin</item>
+        <item>Plants</item>
+    </string-array>
+
+    <string-array name="entries_bathroom">
+        <item>Latrine</item>
+        <item>Pit</item>
+        <item>Toilet</item>
+        <item>None</item>
+    </string-array>
+
+    <string-array name="entries_water">
+        <item>Pipes</item>
+        <item>Well</item>
+        <item>Faucet</item>
+        <item>River</item>
+        <item>Jugs</item>
+        <item>Other</item>
+    </string-array>
+</resources>
