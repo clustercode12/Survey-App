@@ -10,3 +10,5 @@ This is a simple survey app for android customized for a USA ONG that helps peop
 
 ## Youtube Link
 https://www.youtube.com/watch?v=zedKzwOzBNM
+
+![Example](https://github.com/clustercode12/Survey-App/blob/master/Screenshot%20from%202020-12-22%2015-29-47.png)
